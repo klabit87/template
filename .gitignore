@@ -75,3 +75,10 @@ proguard/
 .idea/
 #gradle.properties
 *.iml
+
+
+#############################################################################
+# My Files
+#############################################################################
+
+app/src/main/java/substratum/theme/template/ThemerConstants.java
